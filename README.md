@@ -1,7 +1,7 @@
-# [Project Name]
+# docker-debian-stable-systemd
 
-TBD
+Debian stable Docker container with SystemD.
 
 ## License
 
-[MIT](license.md) © [year] [fullname or company]
+[MIT](license.md) © 2021 [Brennan Fee](https://github.com/brennanfee)
